@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
 
-  <!-- 左边个人介绍 -->
+  <!-- 个人介绍 -->
   <div style="flex: 1; max-width: 45%;">
     <h1>Hi 👋, I'm SonderLives</h1>
     <h3>🔒 网络安全学习者 | Security Enthusiast</h3>
@@ -22,12 +22,11 @@
 
 
 
-  <!-- 右边技能图 -->
-  <div style="flex: 1; max-width: 45%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" style="max-width: 100%; margin-bottom: 20px;">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" style="max-width: 100%;">
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" width="49%" style="display: inline-block; vertical-align: top; margin-right: 1%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" width="49%" style="display: inline-block; vertical-align: top;">
+</p>
+
 
 </div>
 
