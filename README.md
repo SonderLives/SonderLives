@@ -23,8 +23,8 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" width="48%" style="vertical-align: top;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" width="48%" style="vertical-align: top;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" width="50%" style="vertical-align: top;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" width="30%" style="vertical-align: top;">
 </div>
 
 
