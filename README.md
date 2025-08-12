@@ -22,9 +22,9 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" width="49%" style="display: inline-block; vertical-align: top; margin-right: 1%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" width="30%" style="display: inline-block; vertical-align: top;">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" width="50%" style="display: inline-block; vertical-align: top; margin-right: 1%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" width="25%" style="display: inline-block; vertical-align: top;">
 </p>
 
 
