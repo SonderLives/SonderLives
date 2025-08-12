@@ -15,7 +15,7 @@
 - 💻 **编程语言**：<br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,golang,python,rust)](https://skillicons.dev)
 
-- 💻 **工具与框架**：<br>
+- ⚙️ **工具与框架**：<br>
 [![My Skills](https://skillicons.dev/icons?i=cmake,visualstudio,redis,mysql,qt,vscode,docker)](https://skillicons.dev)
   </div>
 
