@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-    <a href="mailto:3107131629@qq.com">
+    <a href="mailto:qilinga@proton.me">
         <img src="https://img.shields.io/badge/Email-3107131629@qq.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
