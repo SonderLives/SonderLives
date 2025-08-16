@@ -4,7 +4,7 @@
   <div style="flex: 1; max-width: 45%;">
     <h1>Hi 👋, I'm SonderLives</h1>
     <h3>🔒 网络安全学习者 | Security Enthusiast</h3>
-    <p>🚀 热衷于信息安全、CTF、Windows 逆向、二进制安全、C2 与安全工具开发<br>
+    <p>🚀 热衷于信息安全、CTF、Windows 逆向、Android逆向、二进制安全、C2 与安全工具开发<br>
     💡 记录学习 · 分享知识 · 提升技能</p>
 
 <h2 align="center">🛠 技能与工具</h2>
