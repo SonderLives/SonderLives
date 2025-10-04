@@ -3,8 +3,7 @@
   <!-- 个人介绍 -->
   <div style="flex: 1; max-width: 45%;">
     <h1>Hi 👋, I'm SonderLives</h1>
-    <h3>🔒 网络安全学习者 | Security Enthusiast</h3>
-    <p>🚀 热衷于CTF、Windows 逆向、Android逆向<br>
+    <p>🚀 热衷于Windows 逆向、Android逆向<br>
     💡 记录学习 · 分享知识 · 提升技能</p>
 
 <h2 align="center">🛠 技能与工具</h2>
@@ -36,9 +35,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SonderLives&row=1" alt="SonderLives's github trophy">
 </p>
-
-
-<p align="center">⚡ "The quieter you become, the more you are able to hear." — 网络安全之道</p>
 
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
