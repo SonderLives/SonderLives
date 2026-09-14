@@ -3,38 +3,13 @@
   <!-- 个人介绍 -->
   <div style="flex: 1; max-width: 45%;">
     <h1>Hi 👋, I'm SonderLives</h1>
-    <p>🚀 热衷于Windows 逆向、Android逆向<br>
-    💡 记录学习 · 分享知识 · 提升技能</p>
+    <p>喜欢骑行、摄影、听音乐。
 
-<h2 align="center">🛠 技能与工具</h2>
+平时写代码，偶尔折腾一些自己感兴趣的东西。
 
-- 🚀 **操作系统**：<br>
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
-- 💻 **编程语言**：<br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,golang,python,rust)](https://skillicons.dev)
-
-- ⚙️ **工具与框架**：<br>
-[![My Skills](https://skillicons.dev/icons?i=cmake,visualstudio,redis,mysql,qt,vscode,docker)](https://skillicons.dev)
-  </div>
+喜欢到处走走，看看风景，记录一些日常。<p/>
 
 
-
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonderLives&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats" width="50%" style="vertical-align: top;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderLives&theme=radical" alt="Top Langs" width="30%" style="vertical-align: top;">
-</div>
-
-
-
-</div>
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonderLives&row=1" alt="SonderLives's github trophy">
-</p>
 
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
